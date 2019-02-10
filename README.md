@@ -2,7 +2,7 @@
 
 All files in this library are either created by me, or describe projects I've worked on.
 
-When possible/known I've taken care to attribute other authors. Please get in touch concerning errors, copyrights, or missing attributions.
+Please get in touch if you have a concern about a copyright or a missing attribution.
 
 Erik van Eykelen
 
